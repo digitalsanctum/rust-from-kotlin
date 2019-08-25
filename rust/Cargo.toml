@@ -1,0 +1,8 @@
+[package]
+name = "rust-from-kotlin"
+version = "0.1.0"
+authors = ["Shane Witbeck <shane.witbeck@gmail.com>"]
+
+[lib]
+name = "double_input"
+crate-type = ["dylib"]

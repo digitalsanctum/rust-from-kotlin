@@ -1,0 +1,16 @@
+.idea
+.settings/
+.project
+.classpath
+build
+.gradle
+*.iml
+*.ipr
+*.iws
+out
+.DS_Store
+version.txt
+rust/target
+.kgen
+*.so
+*.dylib
